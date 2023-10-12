@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin @Kpretzel
-- 👀 I’m interested in changing my career path and currently looking into both front end and back end development in web applications.
+- 👀 I’m interested in changing my career path and currently looking into fullstack development of web applications.
 - 🌱 I’m currently learning Ruby within Cloud9 to make a functioning app.
 - 💞️ I’m looking to collaborate on projects within generating apps or games
 - 📫 How to reach me: On github if you find me here. We can take the convo to discord/ IM later on.
